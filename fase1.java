@@ -1,6 +1,6 @@
-package com.company;
+//package com.company;
 
-public class prova1 {
+public class fase1 {
     public static void main(String[] args) {
 
         char[] letras = {'J', 'O', 'S', 'E', ' ', 'M', 'A', 'R', 'I', 'A'};

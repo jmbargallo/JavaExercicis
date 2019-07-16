@@ -1,9 +1,10 @@
 import java.util.ArrayList;
 
-public class llista {
+public class fase2 {
 
     public static void main(String[] args) {
-        ArrayList name = new ArrayList();
+        ArrayList <Character> name ;
+		name= new ArrayList();
         name.add('J');
         name.add('o');
         name.add('s');

@@ -4,7 +4,8 @@ public class fase4 {
 
 
     public static void main(String[] args) {
-        ArrayList name = new ArrayList();
+        ArrayList <Character> name; 
+		name= new ArrayList();
         name.add('J');
         name.add('o');
         name.add('s');
@@ -16,7 +17,8 @@ public class fase4 {
         name.add('i');
         name.add('a');
 
-        ArrayList surname = new ArrayList();
+        ArrayList <Character> surname;
+		surname= new ArrayList();
         name.add(' ');
         name.add('B');
         name.add('a');
@@ -27,7 +29,8 @@ public class fase4 {
         name.add('l');
         name.add('o');
 
-        ArrayList fullname = new ArrayList();
+        ArrayList <Character> fullname ;
+		fullname= new ArrayList();
 
 
         for (int i = 0; i < name.size(); i++) {
